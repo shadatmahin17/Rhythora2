@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Ocean Eyes",
+        "artist": "Billie Eilish",
+        "image": "album1.jpg",
+        "audio": "1.mp3"
+    },
+    {
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "image": "album2.jpg",
+        "audio": "2.mp3"
+    },
+    {
+        "title": "Levitating",
+        "artist": "Dua Lipa",
+        "image": "album3.jpg",
+        "audio": "3.mp3"
+    }
+]
